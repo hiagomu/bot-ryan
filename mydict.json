@@ -1,0 +1,4186 @@
+{
+  "stats": [
+    {
+      "Player": "0i",
+      "Maps": 367,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "1962",
+      "Maps": 445,
+      "K/D": 1.01,
+      "Rating": 1.02
+    },
+    {
+      "Player": "1uke",
+      "Maps": 613,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "ableJ",
+      "Maps": 372,
+      "K/D": 1.05,
+      "Rating": 1.0
+    },
+    {
+      "Player": "acAp",
+      "Maps": 342,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "Ace",
+      "Maps": 456,
+      "K/D": 1.08,
+      "Rating": 1.02
+    },
+    {
+      "Player": "AcilioN",
+      "Maps": 1279,
+      "K/D": 0.97,
+      "Rating": 0.96
+    },
+    {
+      "Player": "acoR",
+      "Maps": 837,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "AdreN",
+      "Maps": 1561,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "adreNCS",
+      "Maps": 600,
+      "K/D": 1.04,
+      "Rating": 1.0
+    },
+    {
+      "Player": "advent",
+      "Maps": 875,
+      "K/D": 0.89,
+      "Rating": 0.88
+    },
+    {
+      "Player": "Aerial",
+      "Maps": 629,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "AiyvaN",
+      "Maps": 691,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "aizy",
+      "Maps": 1425,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Aleksib",
+      "Maps": 689,
+      "K/D": 1.01,
+      "Rating": 0.98
+    },
+    {
+      "Player": "ALEXCS",
+      "Maps": 955,
+      "K/D": 0.99,
+      "Rating": 1.0
+    },
+    {
+      "Player": "alex",
+      "Maps": 812,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "alexRr",
+      "Maps": 433,
+      "K/D": 0.93,
+      "Rating": 0.95
+    },
+    {
+      "Player": "aliStair",
+      "Maps": 812,
+      "K/D": 1.16,
+      "Rating": 1.09
+    },
+    {
+      "Player": "allu",
+      "Maps": 1487,
+      "K/D": 1.17,
+      "Rating": 1.1
+    },
+    {
+      "Player": "almazer",
+      "Maps": 820,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "AmaNEk",
+      "Maps": 742,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "ANDROID",
+      "Maps": 809,
+      "K/D": 1.07,
+      "Rating": 1.03
+    },
+    {
+      "Player": "ANGE1",
+      "Maps": 1728,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "anger",
+      "Maps": 682,
+      "K/D": 0.98,
+      "Rating": 0.98
+    },
+    {
+      "Player": "AnJ",
+      "Maps": 399,
+      "K/D": 1.12,
+      "Rating": 1.07
+    },
+    {
+      "Player": "ap0c",
+      "Maps": 632,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "apEX",
+      "Maps": 1639,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "apocdud",
+      "Maps": 431,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "aproto",
+      "Maps": 383,
+      "K/D": 1.01,
+      "Rating": 1.01
+    },
+    {
+      "Player": "arch",
+      "Maps": 593,
+      "K/D": 0.94,
+      "Rating": 0.94
+    },
+    {
+      "Player": "arki",
+      "Maps": 372,
+      "K/D": 0.94,
+      "Rating": 0.94
+    },
+    {
+      "Player": "arT",
+      "Maps": 646,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "arvid",
+      "Maps": 681,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "arya",
+      "Maps": 434,
+      "K/D": 0.89,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Attacker",
+      "Maps": 1014,
+      "K/D": 1.13,
+      "Rating": 1.08
+    },
+    {
+      "Player": "aumaN",
+      "Maps": 697,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "autimatic",
+      "Maps": 1077,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "Ax1Le",
+      "Maps": 428,
+      "K/D": 1.1,
+      "Rating": 1.05
+    },
+    {
+      "Player": "ayaya",
+      "Maps": 420,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "AZR",
+      "Maps": 925,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "b0RUP",
+      "Maps": 1015,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "B1ad3",
+      "Maps": 899,
+      "K/D": 0.8,
+      "Rating": 0.83
+    },
+    {
+      "Player": "balblna",
+      "Maps": 611,
+      "K/D": 0.89,
+      "Rating": 0.9
+    },
+    {
+      "Player": "BARBARR",
+      "Maps": 876,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Barcode",
+      "Maps": 344,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Basso",
+      "Maps": 411,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "ben1337",
+      "Maps": 420,
+      "K/D": 0.9,
+      "Rating": 0.91
+    },
+    {
+      "Player": "BENDJI",
+      "Maps": 863,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Benkai",
+      "Maps": 586,
+      "K/D": 1.2,
+      "Rating": 1.14
+    },
+    {
+      "Player": "BERRY",
+      "Maps": 697,
+      "K/D": 0.86,
+      "Rating": 0.88
+    },
+    {
+      "Player": "bit",
+      "Maps": 502,
+      "K/D": 1.03,
+      "Rating": 0.99
+    },
+    {
+      "Player": "BL1TZ",
+      "Maps": 609,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "blameF",
+      "Maps": 501,
+      "K/D": 1.29,
+      "Rating": 1.17
+    },
+    {
+      "Player": "bld",
+      "Maps": 328,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "blocker",
+      "Maps": 663,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "BnTeT",
+      "Maps": 829,
+      "K/D": 1.27,
+      "Rating": 1.17
+    },
+    {
+      "Player": "bnwGiggs",
+      "Maps": 348,
+      "K/D": 1.0,
+      "Rating": 1.01
+    },
+    {
+      "Player": "bodito",
+      "Maps": 323,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "bodyy",
+      "Maps": 775,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "boltz",
+      "Maps": 1035,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "BONA",
+      "Maps": 401,
+      "K/D": 0.9,
+      "Rating": 0.91
+    },
+    {
+      "Player": "bondik",
+      "Maps": 1271,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Boombl4",
+      "Maps": 737,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "bottle",
+      "Maps": 642,
+      "K/D": 1.08,
+      "Rating": 1.07
+    },
+    {
+      "Player": "boX",
+      "Maps": 765,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Brehze",
+      "Maps": 937,
+      "K/D": 1.15,
+      "Rating": 1.12
+    },
+    {
+      "Player": "broky",
+      "Maps": 369,
+      "K/D": 1.1,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Brollan",
+      "Maps": 710,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "BTN",
+      "Maps": 629,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "bubble",
+      "Maps": 1653,
+      "K/D": 1.08,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Bubzkji",
+      "Maps": 731,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "BURNRUOk",
+      "Maps": 802,
+      "K/D": 0.97,
+      "Rating": 0.98
+    },
+    {
+      "Player": "buster",
+      "Maps": 907,
+      "K/D": 1.11,
+      "Rating": 1.05
+    },
+    {
+      "Player": "byali",
+      "Maps": 1511,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Bymas",
+      "Maps": 57,
+      "K/D": 1.0,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Baaten",
+      "Maps": 726,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "cadiaN",
+      "Maps": 1095,
+      "K/D": 1.1,
+      "Rating": 1.05
+    },
+    {
+      "Player": "caike",
+      "Maps": 364,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "cajunb",
+      "Maps": 1565,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "Calyx",
+      "Maps": 826,
+      "K/D": 1.19,
+      "Rating": 1.12
+    },
+    {
+      "Player": "cam",
+      "Maps": 544,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "captainMo",
+      "Maps": 791,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "cbbk",
+      "Maps": 378,
+      "K/D": 1.03,
+      "Rating": 1.0
+    },
+    {
+      "Player": "CeRq",
+      "Maps": 969,
+      "K/D": 1.21,
+      "Rating": 1.13
+    },
+    {
+      "Player": "chelleos",
+      "Maps": 327,
+      "K/D": 1.14,
+      "Rating": 1.13
+    },
+    {
+      "Player": "chelo",
+      "Maps": 638,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "chopper",
+      "Maps": 745,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "chrisJ",
+      "Maps": 1614,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Coffee",
+      "Maps": 355,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "COLDYY1",
+      "Maps": 947,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "coldzera",
+      "Maps": 1203,
+      "K/D": 1.3,
+      "Rating": 1.18
+    },
+    {
+      "Player": "CONNOR93",
+      "Maps": 449,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Console",
+      "Maps": 708,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Cooper-",
+      "Maps": 529,
+      "K/D": 1.16,
+      "Rating": 1.09
+    },
+    {
+      "Player": "cosmeeeN",
+      "Maps": 319,
+      "K/D": 1.2,
+      "Rating": 1.16
+    },
+    {
+      "Player": "crashies",
+      "Maps": 336,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "crisby",
+      "Maps": 1148,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "cromen",
+      "Maps": 577,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "CRUC1AL",
+      "Maps": 930,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "crush",
+      "Maps": 660,
+      "K/D": 0.9,
+      "Rating": 0.91
+    },
+    {
+      "Player": "CyberFocus",
+      "Maps": 491,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "DANZ",
+      "Maps": 323,
+      "K/D": 0.92,
+      "Rating": 0.94
+    },
+    {
+      "Player": "dapr",
+      "Maps": 594,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "daps",
+      "Maps": 996,
+      "K/D": 0.87,
+      "Rating": 0.87
+    },
+    {
+      "Player": "darko",
+      "Maps": 514,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "DavCost",
+      "Maps": 977,
+      "K/D": 1.11,
+      "Rating": 1.07
+    },
+    {
+      "Player": "DAVEY",
+      "Maps": 645,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Davidp",
+      "Maps": 774,
+      "K/D": 1.08,
+      "Rating": 1.03
+    },
+    {
+      "Player": "dazzLe",
+      "Maps": 643,
+      "K/D": 1.0,
+      "Rating": 1.01
+    },
+    {
+      "Player": "DD",
+      "Maps": 833,
+      "K/D": 1.11,
+      "Rating": 1.08
+    },
+    {
+      "Player": "DeadFox",
+      "Maps": 807,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "def",
+      "Maps": 605,
+      "K/D": 0.85,
+      "Rating": 0.86
+    },
+    {
+      "Player": "denis",
+      "Maps": 1460,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "dennis",
+      "Maps": 1212,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "dennyslaw",
+      "Maps": 396,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "dephh",
+      "Maps": 768,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "dERZKIY",
+      "Maps": 373,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "desi",
+      "Maps": 349,
+      "K/D": 1.01,
+      "Rating": 1.01
+    },
+    {
+      "Player": "DESPE",
+      "Maps": 468,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "DeStiNy",
+      "Maps": 754,
+      "K/D": 1.03,
+      "Rating": 1.03
+    },
+    {
+      "Player": "DeStRoYeR",
+      "Maps": 407,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Detrony",
+      "Maps": 388,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "DEV7L",
+      "Maps": 549,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "device",
+      "Maps": 1507,
+      "K/D": 1.26,
+      "Rating": 1.17
+    },
+    {
+      "Player": "DEVIL",
+      "Maps": 581,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "Devilwalk",
+      "Maps": 400,
+      "K/D": 0.85,
+      "Rating": 0.86
+    },
+    {
+      "Player": "devoduvek",
+      "Maps": 620,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "dexter",
+      "Maps": 710,
+      "K/D": 1.19,
+      "Rating": 1.14
+    },
+    {
+      "Player": "Dezibel",
+      "Maps": 361,
+      "K/D": 0.86,
+      "Rating": 0.87
+    },
+    {
+      "Player": "DickStacy",
+      "Maps": 624,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Dima",
+      "Maps": 1139,
+      "K/D": 0.97,
+      "Rating": 0.99
+    },
+    {
+      "Player": "dimasick",
+      "Maps": 585,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "DiMKE",
+      "Maps": 381,
+      "K/D": 1.07,
+      "Rating": 1.05
+    },
+    {
+      "Player": "disco doplan",
+      "Maps": 1003,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "dizzyLife",
+      "Maps": 345,
+      "K/D": 1.22,
+      "Rating": 1.14
+    },
+    {
+      "Player": "djay",
+      "Maps": 385,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "djL",
+      "Maps": 688,
+      "K/D": 0.86,
+      "Rating": 0.86
+    },
+    {
+      "Player": "DJOXiC",
+      "Maps": 489,
+      "K/D": 1.15,
+      "Rating": 1.08
+    },
+    {
+      "Player": "dobu",
+      "Maps": 578,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "donQ",
+      "Maps": 344,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "Dosia",
+      "Maps": 1410,
+      "K/D": 1.02,
+      "Rating": 0.99
+    },
+    {
+      "Player": "doto",
+      "Maps": 371,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "dragonfly",
+      "Maps": 507,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "draken",
+      "Maps": 1028,
+      "K/D": 1.14,
+      "Rating": 1.08
+    },
+    {
+      "Player": "Drea3er",
+      "Maps": 374,
+      "K/D": 0.97,
+      "Rating": 0.98
+    },
+    {
+      "Player": "dream3r",
+      "Maps": 737,
+      "K/D": 1.24,
+      "Rating": 1.14
+    },
+    {
+      "Player": "Drone",
+      "Maps": 454,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "dumz",
+      "Maps": 455,
+      "K/D": 0.96,
+      "Rating": 0.95
+    },
+    {
+      "Player": "dupreeh",
+      "Maps": 1627,
+      "K/D": 1.14,
+      "Rating": 1.09
+    },
+    {
+      "Player": "dycha",
+      "Maps": 333,
+      "K/D": 1.11,
+      "Rating": 1.08
+    },
+    {
+      "Player": "dzt",
+      "Maps": 549,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "EasTor",
+      "Maps": 383,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "ecfN",
+      "Maps": 397,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "Edward",
+      "Maps": 1414,
+      "K/D": 1.03,
+      "Rating": 1.0
+    },
+    {
+      "Player": "El1an",
+      "Maps": 588,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "electronic",
+      "Maps": 937,
+      "K/D": 1.15,
+      "Rating": 1.11
+    },
+    {
+      "Player": "EliGE",
+      "Maps": 1284,
+      "K/D": 1.11,
+      "Rating": 1.09
+    },
+    {
+      "Player": "ELUSIVE",
+      "Maps": 379,
+      "K/D": 1.01,
+      "Rating": 0.97
+    },
+    {
+      "Player": "emagine",
+      "Maps": 749,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "emi",
+      "Maps": 947,
+      "K/D": 0.94,
+      "Rating": 0.94
+    },
+    {
+      "Player": "erkaSt",
+      "Maps": 713,
+      "K/D": 1.18,
+      "Rating": 1.13
+    },
+    {
+      "Player": "es3tag",
+      "Maps": 1043,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "EspiranTo",
+      "Maps": 773,
+      "K/D": 1.1,
+      "Rating": 1.08
+    },
+    {
+      "Player": "Ethan",
+      "Maps": 888,
+      "K/D": 1.09,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Ex6TenZ",
+      "Maps": 1393,
+      "K/D": 0.96,
+      "Rating": 0.94
+    },
+    {
+      "Player": "exit",
+      "Maps": 433,
+      "K/D": 1.16,
+      "Rating": 1.08
+    },
+    {
+      "Player": "EXUS",
+      "Maps": 609,
+      "K/D": 0.92,
+      "Rating": 0.93
+    },
+    {
+      "Player": "f0rest",
+      "Maps": 1705,
+      "K/D": 1.18,
+      "Rating": 1.12
+    },
+    {
+      "Player": "facecrack",
+      "Maps": 1311,
+      "K/D": 0.99,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Fadey",
+      "Maps": 465,
+      "K/D": 0.94,
+      "Rating": 0.96
+    },
+    {
+      "Player": "FalleN",
+      "Maps": 1300,
+      "K/D": 1.18,
+      "Rating": 1.08
+    },
+    {
+      "Player": "FANAT ROCKA",
+      "Maps": 459,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Farlig",
+      "Maps": 428,
+      "K/D": 1.19,
+      "Rating": 1.12
+    },
+    {
+      "Player": "faveN",
+      "Maps": 786,
+      "K/D": 1.11,
+      "Rating": 1.07
+    },
+    {
+      "Player": "fejtZ",
+      "Maps": 658,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "felps",
+      "Maps": 782,
+      "K/D": 1.08,
+      "Rating": 1.07
+    },
+    {
+      "Player": "fenvicious",
+      "Maps": 706,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "fer",
+      "Maps": 1287,
+      "K/D": 1.12,
+      "Rating": 1.09
+    },
+    {
+      "Player": "Fifflaren",
+      "Maps": 537,
+      "K/D": 0.99,
+      "Rating": 0.94
+    },
+    {
+      "Player": "fitch",
+      "Maps": 572,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "fix",
+      "Maps": 334,
+      "K/D": 0.87,
+      "Rating": 0.9
+    },
+    {
+      "Player": "fl0m",
+      "Maps": 432,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "FL1T",
+      "Maps": 666,
+      "K/D": 1.1,
+      "Rating": 1.05
+    },
+    {
+      "Player": "flamie",
+      "Maps": 1369,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Flarich",
+      "Maps": 772,
+      "K/D": 1.13,
+      "Rating": 1.07
+    },
+    {
+      "Player": "flashie",
+      "Maps": 575,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "flickz",
+      "Maps": 461,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "floppy",
+      "Maps": 542,
+      "K/D": 1.15,
+      "Rating": 1.11
+    },
+    {
+      "Player": "flowsicK",
+      "Maps": 395,
+      "K/D": 0.86,
+      "Rating": 0.87
+    },
+    {
+      "Player": "flusha",
+      "Maps": 1641,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "FNS",
+      "Maps": 953,
+      "K/D": 0.89,
+      "Rating": 0.89
+    },
+    {
+      "Player": "fnx",
+      "Maps": 565,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "food",
+      "Maps": 456,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Forester",
+      "Maps": 549,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "forget",
+      "Maps": 442,
+      "K/D": 0.91,
+      "Rating": 0.94
+    },
+    {
+      "Player": "fox",
+      "Maps": 847,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "fr0slev",
+      "Maps": 370,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "freakazoid",
+      "Maps": 868,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "freddieb",
+      "Maps": 1135,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "FREDDyFROG",
+      "Maps": 867,
+      "K/D": 1.2,
+      "Rating": 1.12
+    },
+    {
+      "Player": "Freeman",
+      "Maps": 723,
+      "K/D": 1.18,
+      "Rating": 1.13
+    },
+    {
+      "Player": "friberg",
+      "Maps": 1575,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Friis",
+      "Maps": 938,
+      "K/D": 1.05,
+      "Rating": 1.01
+    },
+    {
+      "Player": "FrostMisty",
+      "Maps": 376,
+      "K/D": 1.07,
+      "Rating": 1.03
+    },
+    {
+      "Player": "frozen",
+      "Maps": 877,
+      "K/D": 1.19,
+      "Rating": 1.14
+    },
+    {
+      "Player": "FugLy",
+      "Maps": 1055,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Furlan",
+      "Maps": 1608,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "gabesson",
+      "Maps": 441,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "gade",
+      "Maps": 756,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "gas",
+      "Maps": 327,
+      "K/D": 1.09,
+      "Rating": 1.1
+    },
+    {
+      "Player": "gaules",
+      "Maps": 777,
+      "K/D": "0/gaules",
+      "Rating": "9? 99? 999?"
+    },
+    {
+      "Player": "Geniuss",
+      "Maps": 376,
+      "K/D": 1.06,
+      "Rating": 1.06
+    },
+    {
+      "Player": "GeT_RiGhT",
+      "Maps": 1678,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "gla1ve",
+      "Maps": 1335,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "glace",
+      "Maps": 589,
+      "K/D": 1.04,
+      "Rating": 1.0
+    },
+    {
+      "Player": "glow",
+      "Maps": 395,
+      "K/D": 0.98,
+      "Rating": 0.96
+    },
+    {
+      "Player": "gMd",
+      "Maps": 464,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "gobb",
+      "Maps": 975,
+      "K/D": 0.84,
+      "Rating": 0.85
+    },
+    {
+      "Player": "Golden",
+      "Maps": 687,
+      "K/D": 0.9,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Goofy",
+      "Maps": 567,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Gratisfaction",
+      "Maps": 729,
+      "K/D": 1.14,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Grim",
+      "Maps": 545,
+      "K/D": 1.07,
+      "Rating": 1.07
+    },
+    {
+      "Player": "GruBy",
+      "Maps": 1404,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "grux",
+      "Maps": 322,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "GuardiaN",
+      "Maps": 1484,
+      "K/D": 1.19,
+      "Rating": 1.12
+    },
+    {
+      "Player": "H4RR3",
+      "Maps": 335,
+      "K/D": 0.91,
+      "Rating": 0.93
+    },
+    {
+      "Player": "hAdji",
+      "Maps": 678,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "hallzerk",
+      "Maps": 360,
+      "K/D": 1.14,
+      "Rating": 1.1
+    },
+    {
+      "Player": "hampus",
+      "Maps": 1017,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Happy",
+      "Maps": 1464,
+      "K/D": 1.11,
+      "Rating": 1.06
+    },
+    {
+      "Player": "haste",
+      "Maps": 318,
+      "K/D": 0.81,
+      "Rating": 0.83
+    },
+    {
+      "Player": "Hatz",
+      "Maps": 753,
+      "K/D": 1.15,
+      "Rating": 1.09
+    },
+    {
+      "Player": "hazed",
+      "Maps": 736,
+      "K/D": 0.99,
+      "Rating": 1.0
+    },
+    {
+      "Player": "HaZR",
+      "Maps": 428,
+      "K/D": 1.06,
+      "Rating": 1.06
+    },
+    {
+      "Player": "HEN1",
+      "Maps": 871,
+      "K/D": 1.23,
+      "Rating": 1.11
+    },
+    {
+      "Player": "Hiko",
+      "Maps": 937,
+      "K/D": 1.1,
+      "Rating": 1.04
+    },
+    {
+      "Player": "hitMouse",
+      "Maps": 514,
+      "K/D": 0.94,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Hobbit",
+      "Maps": 721,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "holzt",
+      "Maps": 320,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "hooch",
+      "Maps": 855,
+      "K/D": 0.9,
+      "Rating": 0.9
+    },
+    {
+      "Player": "hoody",
+      "Maps": 559,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "HooXi",
+      "Maps": 334,
+      "K/D": 0.88,
+      "Rating": 0.89
+    },
+    {
+      "Player": "HS",
+      "Maps": 806,
+      "K/D": 1.03,
+      "Rating": 1.03
+    },
+    {
+      "Player": "HSK",
+      "Maps": 540,
+      "K/D": 1.1,
+      "Rating": 1.04
+    },
+    {
+      "Player": "HUGHMUNGUS",
+      "Maps": 542,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "HUNDEN",
+      "Maps": 1578,
+      "K/D": 0.78,
+      "Rating": 0.81
+    },
+    {
+      "Player": "Huntercs",
+      "Maps": 326,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "huNter",
+      "Maps": 1094,
+      "K/D": 1.19,
+      "Rating": 1.14
+    },
+    {
+      "Player": "hutji",
+      "Maps": 419,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "Hyper",
+      "Maps": 607,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "HZ",
+      "Maps": 495,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "iDISBALANCE",
+      "Maps": 480,
+      "K/D": 1.12,
+      "Rating": 1.06
+    },
+    {
+      "Player": "iDk",
+      "Maps": 626,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "ImpressioN",
+      "Maps": 556,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Impulse",
+      "Maps": 469,
+      "K/D": 1.15,
+      "Rating": 1.09
+    },
+    {
+      "Player": "Infinite",
+      "Maps": 501,
+      "K/D": 1.16,
+      "Rating": 1.12
+    },
+    {
+      "Player": "InfrequeNt",
+      "Maps": 467,
+      "K/D": 1.12,
+      "Rating": 1.07
+    },
+    {
+      "Player": "InJect",
+      "Maps": 346,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "innocent",
+      "Maps": 1319,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "INS",
+      "Maps": 752,
+      "K/D": 1.15,
+      "Rating": 1.1
+    },
+    {
+      "Player": "interz",
+      "Maps": 348,
+      "K/D": 1.01,
+      "Rating": 0.96
+    },
+    {
+      "Player": "Inzta",
+      "Maps": 742,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "ISSAA",
+      "Maps": 625,
+      "K/D": 1.1,
+      "Rating": 1.06
+    },
+    {
+      "Player": "IyeN",
+      "Maps": 352,
+      "K/D": 1.04,
+      "Rating": 1.04
+    },
+    {
+      "Player": "J1rah",
+      "Maps": 475,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "JaCkz",
+      "Maps": 756,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Jame",
+      "Maps": 813,
+      "K/D": 1.3,
+      "Rating": 1.14
+    },
+    {
+      "Player": "James",
+      "Maps": 331,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "Jamppi",
+      "Maps": 459,
+      "K/D": 1.19,
+      "Rating": 1.14
+    },
+    {
+      "Player": "jaxi",
+      "Maps": 465,
+      "K/D": 1.02,
+      "Rating": 0.99
+    },
+    {
+      "Player": "jayzaR",
+      "Maps": 430,
+      "K/D": 1.08,
+      "Rating": 1.06
+    },
+    {
+      "Player": "Jayzwalkingz",
+      "Maps": 330,
+      "K/D": 0.97,
+      "Rating": 0.96
+    },
+    {
+      "Player": "JD",
+      "Maps": 323,
+      "K/D": 0.86,
+      "Rating": 0.89
+    },
+    {
+      "Player": "jdm64",
+      "Maps": 823,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Jerry",
+      "Maps": 898,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "JiNKZ",
+      "Maps": 542,
+      "K/D": 0.88,
+      "Rating": 0.89
+    },
+    {
+      "Player": "Jinxx",
+      "Maps": 400,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "jkaem",
+      "Maps": 958,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "jks",
+      "Maps": 922,
+      "K/D": 1.15,
+      "Rating": 1.09
+    },
+    {
+      "Player": "jmqa",
+      "Maps": 918,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "jnt",
+      "Maps": 402,
+      "K/D": 1.02,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Jonji",
+      "Maps": 673,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "jR",
+      "Maps": 568,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "JT",
+      "Maps": 620,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "JUGi",
+      "Maps": 913,
+      "K/D": 1.18,
+      "Rating": 1.09
+    },
+    {
+      "Player": "juho",
+      "Maps": 739,
+      "K/D": 1.02,
+      "Rating": 1.03
+    },
+    {
+      "Player": "JUST",
+      "Maps": 325,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "JW",
+      "Maps": 1736,
+      "K/D": 1.08,
+      "Rating": 1.06
+    },
+    {
+      "Player": "Jyo",
+      "Maps": 684,
+      "K/D": 1.07,
+      "Rating": 1.03
+    },
+    {
+      "Player": "k0nfig",
+      "Maps": 1217,
+      "K/D": 1.1,
+      "Rating": 1.09
+    },
+    {
+      "Player": "k1Ng0r",
+      "Maps": 358,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "k1to",
+      "Maps": 777,
+      "K/D": 1.01,
+      "Rating": 1.01
+    },
+    {
+      "Player": "kabal",
+      "Maps": 573,
+      "K/D": 1.08,
+      "Rating": 1.04
+    },
+    {
+      "Player": "kaboose",
+      "Maps": 549,
+      "K/D": 0.97,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Kairi",
+      "Maps": 394,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "kalinka",
+      "Maps": 492,
+      "K/D": 1.04,
+      "Rating": 1.04
+    },
+    {
+      "Player": "kaper",
+      "Maps": 532,
+      "K/D": 0.98,
+      "Rating": 0.96
+    },
+    {
+      "Player": "karrigan",
+      "Maps": 1687,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Karsa",
+      "Maps": 449,
+      "K/D": 0.96,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Kaze",
+      "Maps": 638,
+      "K/D": 1.31,
+      "Rating": 1.2
+    },
+    {
+      "Player": "keev",
+      "Maps": 594,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "kennyS",
+      "Maps": 1718,
+      "K/D": 1.22,
+      "Rating": 1.14
+    },
+    {
+      "Player": "kenzor",
+      "Maps": 589,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "KHRN",
+      "Maps": 812,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "KHTEX",
+      "Maps": 383,
+      "K/D": 1.14,
+      "Rating": 1.09
+    },
+    {
+      "Player": "KILLDREAM",
+      "Maps": 427,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "kinqie",
+      "Maps": 549,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "kioShiMa",
+      "Maps": 1378,
+      "K/D": 1.06,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Kirby",
+      "Maps": 343,
+      "K/D": 0.88,
+      "Rating": 0.9
+    },
+    {
+      "Player": "Kjaerbye",
+      "Maps": 1400,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "kNg",
+      "Maps": 677,
+      "K/D": 1.19,
+      "Rating": 1.13
+    },
+    {
+      "Player": "Kntz",
+      "Maps": 350,
+      "K/D": 1.08,
+      "Rating": 1.04
+    },
+    {
+      "Player": "kolor",
+      "Maps": 459,
+      "K/D": 1.06,
+      "Rating": 1.05
+    },
+    {
+      "Player": "koosta",
+      "Maps": 906,
+      "K/D": 1.09,
+      "Rating": 1.06
+    },
+    {
+      "Player": "Krad",
+      "Maps": 541,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "kreaz",
+      "Maps": 325,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "kressy",
+      "Maps": 652,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "krii",
+      "Maps": 359,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "KRIMZ",
+      "Maps": 1507,
+      "K/D": 1.12,
+      "Rating": 1.06
+    },
+    {
+      "Player": "KrizzeN",
+      "Maps": 664,
+      "K/D": 1.0,
+      "Rating": 0.97
+    },
+    {
+      "Player": "kRYSTAL",
+      "Maps": 1574,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "KSCERATO",
+      "Maps": 569,
+      "K/D": 1.32,
+      "Rating": 1.17
+    },
+    {
+      "Player": "kUcheR",
+      "Maps": 852,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "Kvik",
+      "Maps": 764,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "kzy",
+      "Maps": 937,
+      "K/D": 0.96,
+      "Rating": 0.94
+    },
+    {
+      "Player": "Lambert",
+      "Maps": 364,
+      "K/D": 0.95,
+      "Rating": 0.94
+    },
+    {
+      "Player": "land1n",
+      "Maps": 618,
+      "K/D": 1.12,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Leaf",
+      "Maps": 370,
+      "K/D": 1.01,
+      "Rating": 0.98
+    },
+    {
+      "Player": "LEGIJA",
+      "Maps": 855,
+      "K/D": 0.9,
+      "Rating": 0.91
+    },
+    {
+      "Player": "Lekr0",
+      "Maps": 940,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "leo_druNky",
+      "Maps": 385,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "LETN1",
+      "Maps": 1111,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "LeX",
+      "Maps": 378,
+      "K/D": 0.87,
+      "Rating": 0.9
+    },
+    {
+      "Player": "Liazz",
+      "Maps": 765,
+      "K/D": 1.18,
+      "Rating": 1.1
+    },
+    {
+      "Player": "liTTle",
+      "Maps": 453,
+      "K/D": 1.2,
+      "Rating": 1.12
+    },
+    {
+      "Player": "Llamas",
+      "Maps": 393,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "LOGAN",
+      "Maps": 590,
+      "K/D": 0.97,
+      "Rating": 0.96
+    },
+    {
+      "Player": "lollipop21k",
+      "Maps": 754,
+      "K/D": 1.12,
+      "Rating": 1.09
+    },
+    {
+      "Player": "LOMME",
+      "Maps": 623,
+      "K/D": 0.95,
+      "Rating": 0.94
+    },
+    {
+      "Player": "LONSDALE",
+      "Maps": 368,
+      "K/D": 0.82,
+      "Rating": 0.85
+    },
+    {
+      "Player": "Loord",
+      "Maps": 369,
+      "K/D": 0.91,
+      "Rating": 0.9
+    },
+    {
+      "Player": "LOVEYY",
+      "Maps": 700,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "loWel",
+      "Maps": 992,
+      "K/D": 1.11,
+      "Rating": 1.05
+    },
+    {
+      "Player": "LUCAS1",
+      "Maps": 825,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "Lucky",
+      "Maps": 654,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Lukki",
+      "Maps": 691,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "lunAtic",
+      "Maps": 497,
+      "K/D": 0.93,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Luz",
+      "Maps": 607,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Machinegun",
+      "Maps": 389,
+      "K/D": 1.1,
+      "Rating": 1.09
+    },
+    {
+      "Player": "Maden",
+      "Maps": 358,
+      "K/D": 1.06,
+      "Rating": 1.06
+    },
+    {
+      "Player": "maeVe",
+      "Maps": 486,
+      "K/D": 0.98,
+      "Rating": 0.96
+    },
+    {
+      "Player": "Magisk",
+      "Maps": 1085,
+      "K/D": 1.17,
+      "Rating": 1.11
+    },
+    {
+      "Player": "Maikelele",
+      "Maps": 1067,
+      "K/D": 1.05,
+      "Rating": 1.01
+    },
+    {
+      "Player": "MAiNLiNE",
+      "Maps": 437,
+      "K/D": 0.87,
+      "Rating": 0.89
+    },
+    {
+      "Player": "MAIROLLS",
+      "Maps": 378,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "MAJ3R",
+      "Maps": 758,
+      "K/D": 0.96,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Maka",
+      "Maps": 740,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "malta",
+      "Maps": 794,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Maluk3",
+      "Maps": 649,
+      "K/D": 1.12,
+      "Rating": 1.06
+    },
+    {
+      "Player": "Maniac",
+      "Maps": 835,
+      "K/D": 0.97,
+      "Rating": 0.96
+    },
+    {
+      "Player": "mantuu",
+      "Maps": 385,
+      "K/D": 1.19,
+      "Rating": 1.14
+    },
+    {
+      "Player": "Marek",
+      "Maps": 331,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "MarKE",
+      "Maps": 547,
+      "K/D": 1.09,
+      "Rating": 1.06
+    },
+    {
+      "Player": "markeloff",
+      "Maps": 1143,
+      "K/D": 1.03,
+      "Rating": 0.99
+    },
+    {
+      "Player": "matHEND",
+      "Maps": 333,
+      "K/D": 0.9,
+      "Rating": 0.92
+    },
+    {
+      "Player": "Mayker",
+      "Maps": 333,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "mch",
+      "Maps": 352,
+      "K/D": 1.05,
+      "Rating": 1.0
+    },
+    {
+      "Player": "mds",
+      "Maps": 787,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "meisoN",
+      "Maps": 336,
+      "K/D": 0.91,
+      "Rating": 0.93
+    },
+    {
+      "Player": "mertz",
+      "Maps": 713,
+      "K/D": 1.14,
+      "Rating": 1.1
+    },
+    {
+      "Player": "meyern",
+      "Maps": 324,
+      "K/D": 1.1,
+      "Rating": 1.08
+    },
+    {
+      "Player": "MICHU",
+      "Maps": 1561,
+      "K/D": 1.1,
+      "Rating": 1.08
+    },
+    {
+      "Player": "MiGHTYMAX",
+      "Maps": 632,
+      "K/D": 0.91,
+      "Rating": 0.91
+    },
+    {
+      "Player": "mini",
+      "Maps": 318,
+      "K/D": 1.11,
+      "Rating": 1.1
+    },
+    {
+      "Player": "MINISE",
+      "Maps": 1511,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "mir",
+      "Maps": 702,
+      "K/D": 1.14,
+      "Rating": 1.09
+    },
+    {
+      "Player": "mirbit",
+      "Maps": 579,
+      "K/D": 1.08,
+      "Rating": 1.01
+    },
+    {
+      "Player": "mitch",
+      "Maps": 807,
+      "K/D": 1.05,
+      "Rating": 1.01
+    },
+    {
+      "Player": "mixwell",
+      "Maps": 840,
+      "K/D": 1.13,
+      "Rating": 1.09
+    },
+    {
+      "Player": "MODDII",
+      "Maps": 1123,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "MoeycQ",
+      "Maps": 605,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "mono",
+      "Maps": 519,
+      "K/D": 1.01,
+      "Rating": 0.98
+    },
+    {
+      "Player": "MonttY",
+      "Maps": 522,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "moose",
+      "Maps": 685,
+      "K/D": 1.17,
+      "Rating": 1.11
+    },
+    {
+      "Player": "mopoz",
+      "Maps": 655,
+      "K/D": 0.98,
+      "Rating": 0.98
+    },
+    {
+      "Player": "morelz",
+      "Maps": 933,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "motm",
+      "Maps": 564,
+      "K/D": 1.09,
+      "Rating": 1.06
+    },
+    {
+      "Player": "mou",
+      "Maps": 1080,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "mouz",
+      "Maps": 1374,
+      "K/D": 1.07,
+      "Rating": 1.03
+    },
+    {
+      "Player": "MSL",
+      "Maps": 1620,
+      "K/D": 0.9,
+      "Rating": 0.92
+    },
+    {
+      "Player": "MUTiRiS",
+      "Maps": 671,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "mynio",
+      "Maps": 385,
+      "K/D": 0.9,
+      "Rating": 0.92
+    },
+    {
+      "Player": "n0rb3r7",
+      "Maps": 461,
+      "K/D": 0.99,
+      "Rating": 1.01
+    },
+    {
+      "Player": "n0thing",
+      "Maps": 813,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "NAF",
+      "Maps": 1245,
+      "K/D": 1.15,
+      "Rating": 1.09
+    },
+    {
+      "Player": "nafany",
+      "Maps": 362,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "nak",
+      "Maps": 483,
+      "K/D": 0.93,
+      "Rating": 0.92
+    },
+    {
+      "Player": "NaToSaphiX",
+      "Maps": 750,
+      "K/D": 1.18,
+      "Rating": 1.09
+    },
+    {
+      "Player": "nawrot",
+      "Maps": 357,
+      "K/D": 0.89,
+      "Rating": 0.91
+    },
+    {
+      "Player": "nawwk",
+      "Maps": 628,
+      "K/D": 1.19,
+      "Rating": 1.11
+    },
+    {
+      "Player": "NBK-",
+      "Maps": 1753,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "nbl",
+      "Maps": 509,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "ncl",
+      "Maps": 429,
+      "K/D": 0.95,
+      "Rating": 0.93
+    },
+    {
+      "Player": "neaLaN",
+      "Maps": 471,
+      "K/D": 0.92,
+      "Rating": 0.94
+    },
+    {
+      "Player": "NEEX",
+      "Maps": 429,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "NEKIZ",
+      "Maps": 584,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "NENO",
+      "Maps": 610,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "NEO",
+      "Maps": 1732,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "neptune",
+      "Maps": 480,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "nex",
+      "Maps": 1074,
+      "K/D": 1.13,
+      "Rating": 1.09
+    },
+    {
+      "Player": "nexa",
+      "Maps": 918,
+      "K/D": 1.14,
+      "Rating": 1.08
+    },
+    {
+      "Player": "ngiN",
+      "Maps": 737,
+      "K/D": 0.95,
+      "Rating": 0.93
+    },
+    {
+      "Player": "NickelBack",
+      "Maps": 683,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Nico",
+      "Maps": 399,
+      "K/D": 1.09,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Nifty",
+      "Maps": 851,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "niki1",
+      "Maps": 728,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "NikkeZ",
+      "Maps": 361,
+      "K/D": 1.09,
+      "Rating": 1.07
+    },
+    {
+      "Player": "nikocs",
+      "Maps": 918,
+      "K/D": 1.07,
+      "Rating": 1.03
+    },
+    {
+      "Player": "NiKo",
+      "Maps": 1258,
+      "K/D": 1.2,
+      "Rating": 1.16
+    },
+    {
+      "Player": "NikoM",
+      "Maps": 391,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "nitr0",
+      "Maps": 1309,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "NK4Y",
+      "Maps": 450,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "nkl",
+      "Maps": 642,
+      "K/D": 0.91,
+      "Rating": 0.9
+    },
+    {
+      "Player": "no_one",
+      "Maps": 343,
+      "K/D": 0.98,
+      "Rating": 0.98
+    },
+    {
+      "Player": "Nodios",
+      "Maps": 386,
+      "K/D": 1.03,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Noisia",
+      "Maps": 567,
+      "K/D": 0.94,
+      "Rating": 0.94
+    },
+    {
+      "Player": "Noktse",
+      "Maps": 561,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Noobster",
+      "Maps": 424,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "nukkye",
+      "Maps": 592,
+      "K/D": 1.13,
+      "Rating": 1.08
+    },
+    {
+      "Player": "OCEAN",
+      "Maps": 384,
+      "K/D": 0.73,
+      "Rating": 0.77
+    },
+    {
+      "Player": "Oderus",
+      "Maps": 472,
+      "K/D": 0.99,
+      "Rating": 1.0
+    },
+    {
+      "Player": "ofnu",
+      "Maps": 772,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Olivia",
+      "Maps": 517,
+      "K/D": 1.14,
+      "Rating": 1.1
+    },
+    {
+      "Player": "olofmeister",
+      "Maps": 1422,
+      "K/D": 1.12,
+      "Rating": 1.07
+    },
+    {
+      "Player": "oSee",
+      "Maps": 658,
+      "K/D": 1.1,
+      "Rating": 1.05
+    },
+    {
+      "Player": "oskar",
+      "Maps": 1042,
+      "K/D": 1.17,
+      "Rating": 1.12
+    },
+    {
+      "Player": "oskarish",
+      "Maps": 832,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "ottoNd",
+      "Maps": 754,
+      "K/D": 1.2,
+      "Rating": 1.12
+    },
+    {
+      "Player": "pancc",
+      "Maps": 412,
+      "K/D": 1.1,
+      "Rating": 1.08
+    },
+    {
+      "Player": "pashaBiceps",
+      "Maps": 1592,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "PASHANOJ",
+      "Maps": 480,
+      "K/D": 0.81,
+      "Rating": 0.84
+    },
+    {
+      "Player": "Patitek",
+      "Maps": 377,
+      "K/D": 1.03,
+      "Rating": 1.03
+    },
+    {
+      "Player": "paz",
+      "Maps": 776,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "pecks",
+      "Maps": 389,
+      "K/D": 1.03,
+      "Rating": 1.0
+    },
+    {
+      "Player": "peet",
+      "Maps": 379,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "PERCY",
+      "Maps": 804,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Perfecto",
+      "Maps": 341,
+      "K/D": 1.04,
+      "Rating": 0.99
+    },
+    {
+      "Player": "PetitSkel",
+      "Maps": 337,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "phr",
+      "Maps": 1000,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "Pimp",
+      "Maps": 976,
+      "K/D": 1.13,
+      "Rating": 1.07
+    },
+    {
+      "Player": "PKL",
+      "Maps": 755,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "PlesseN",
+      "Maps": 817,
+      "K/D": 1.0,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Plopski",
+      "Maps": 666,
+      "K/D": 1.1,
+      "Rating": 1.06
+    },
+    {
+      "Player": "pNshr",
+      "Maps": 595,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "poizon",
+      "Maps": 839,
+      "K/D": 1.2,
+      "Rating": 1.14
+    },
+    {
+      "Player": "Polen",
+      "Maps": 370,
+      "K/D": 0.88,
+      "Rating": 0.89
+    },
+    {
+      "Player": "Polly",
+      "Maps": 404,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "pounh",
+      "Maps": 374,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "pronax",
+      "Maps": 1199,
+      "K/D": 0.89,
+      "Rating": 0.89
+    },
+    {
+      "Player": "prt",
+      "Maps": 410,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "PTC",
+      "Maps": 448,
+      "K/D": 1.19,
+      "Rating": 1.12
+    },
+    {
+      "Player": "ptr",
+      "Maps": 986,
+      "K/D": 1.15,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Puls3",
+      "Maps": 434,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "PwnAlone",
+      "Maps": 397,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "pyth",
+      "Maps": 754,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "qikert",
+      "Maps": 893,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "QKA",
+      "Maps": 374,
+      "K/D": 1.1,
+      "Rating": 1.06
+    },
+    {
+      "Player": "qqGOD",
+      "Maps": 467,
+      "K/D": 1.06,
+      "Rating": 1.05
+    },
+    {
+      "Player": "queztone",
+      "Maps": 659,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "quix",
+      "Maps": 579,
+      "K/D": 0.93,
+      "Rating": 0.96
+    },
+    {
+      "Player": "R0b3n",
+      "Maps": 427,
+      "K/D": 1.04,
+      "Rating": 1.02
+    },
+    {
+      "Player": "raafa",
+      "Maps": 528,
+      "K/D": 1.09,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Radifaction",
+      "Maps": 364,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "rafftu",
+      "Maps": 405,
+      "K/D": 0.93,
+      "Rating": 0.92
+    },
+    {
+      "Player": "rain",
+      "Maps": 1289,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Rainwaker",
+      "Maps": 355,
+      "K/D": 1.07,
+      "Rating": 1.05
+    },
+    {
+      "Player": "rallen",
+      "Maps": 1377,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Ramz1kBO$$",
+      "Maps": 422,
+      "K/D": 1.07,
+      "Rating": 1.05
+    },
+    {
+      "Player": "rbz",
+      "Maps": 473,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "RCF",
+      "Maps": 403,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "real",
+      "Maps": 336,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "reatz",
+      "Maps": 1128,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "refrezh",
+      "Maps": 683,
+      "K/D": 1.09,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Relaxa",
+      "Maps": 864,
+      "K/D": 1.12,
+      "Rating": 1.04
+    },
+    {
+      "Player": "reltuC",
+      "Maps": 865,
+      "K/D": 1.0,
+      "Rating": 0.97
+    },
+    {
+      "Player": "Relyks",
+      "Maps": 832,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "repo",
+      "Maps": 497,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "reversive",
+      "Maps": 436,
+      "K/D": 1.03,
+      "Rating": 1.01
+    },
+    {
+      "Player": "REZ",
+      "Maps": 995,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Rickeh",
+      "Maps": 679,
+      "K/D": 1.12,
+      "Rating": 1.06
+    },
+    {
+      "Player": "RIKO",
+      "Maps": 396,
+      "K/D": 1.03,
+      "Rating": 1.03
+    },
+    {
+      "Player": "rmn",
+      "Maps": 570,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "robiin",
+      "Maps": 1106,
+      "K/D": 1.0,
+      "Rating": 1.0
+    },
+    {
+      "Player": "ROBO",
+      "Maps": 667,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "roca",
+      "Maps": 660,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Rock1nG",
+      "Maps": 797,
+      "K/D": 0.94,
+      "Rating": 0.95
+    },
+    {
+      "Player": "roeJ",
+      "Maps": 432,
+      "K/D": 1.07,
+      "Rating": 1.06
+    },
+    {
+      "Player": "RoLEX",
+      "Maps": 429,
+      "K/D": 1.01,
+      "Rating": 1.01
+    },
+    {
+      "Player": "roman",
+      "Maps": 414,
+      "K/D": 0.91,
+      "Rating": 0.91
+    },
+    {
+      "Player": "rommi",
+      "Maps": 514,
+      "K/D": 1.07,
+      "Rating": 1.05
+    },
+    {
+      "Player": "ropz",
+      "Maps": 798,
+      "K/D": 1.19,
+      "Rating": 1.1
+    },
+    {
+      "Player": "roseau",
+      "Maps": 412,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "RpK",
+      "Maps": 1352,
+      "K/D": 0.98,
+      "Rating": 0.98
+    },
+    {
+      "Player": "RUBINO",
+      "Maps": 998,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "RUSH",
+      "Maps": 1159,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "RuStY",
+      "Maps": 807,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "ryann",
+      "Maps": 644,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "ryotzz",
+      "Maps": 436,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "ryx",
+      "Maps": 491,
+      "K/D": 1.14,
+      "Rating": 1.09
+    },
+    {
+      "Player": "Ryxxo",
+      "Maps": 601,
+      "K/D": 1.13,
+      "Rating": 1.08
+    },
+    {
+      "Player": "s0m",
+      "Maps": 323,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "S0tF1k",
+      "Maps": 1111,
+      "K/D": 0.93,
+      "Rating": 0.93
+    },
+    {
+      "Player": "s1mple",
+      "Maps": 1190,
+      "K/D": 1.32,
+      "Rating": 1.24
+    },
+    {
+      "Player": "SADDYX",
+      "Maps": 460,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "SAGGERTON",
+      "Maps": 540,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "SANJI",
+      "Maps": 467,
+      "K/D": 0.93,
+      "Rating": 0.93
+    },
+    {
+      "Player": "Savage",
+      "Maps": 830,
+      "K/D": 1.14,
+      "Rating": 1.08
+    },
+    {
+      "Player": "sAw",
+      "Maps": 1196,
+      "K/D": 0.92,
+      "Rating": 0.91
+    },
+    {
+      "Player": "Sayf",
+      "Maps": 343,
+      "K/D": 1.11,
+      "Rating": 1.09
+    },
+    {
+      "Player": "ScreaM",
+      "Maps": 1430,
+      "K/D": 1.13,
+      "Rating": 1.09
+    },
+    {
+      "Player": "ScrunK",
+      "Maps": 511,
+      "K/D": 0.91,
+      "Rating": 0.93
+    },
+    {
+      "Player": "sdy",
+      "Maps": 714,
+      "K/D": 1.14,
+      "Rating": 1.08
+    },
+    {
+      "Player": "seang@res",
+      "Maps": 713,
+      "K/D": 0.87,
+      "Rating": 0.88
+    },
+    {
+      "Player": "seb",
+      "Maps": 599,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "seized",
+      "Maps": 1237,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "SEMINTE",
+      "Maps": 327,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "SEMPHIS",
+      "Maps": 812,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "sergej",
+      "Maps": 626,
+      "K/D": 1.17,
+      "Rating": 1.1
+    },
+    {
+      "Player": "sh1ro",
+      "Maps": 365,
+      "K/D": 1.4,
+      "Rating": 1.21
+    },
+    {
+      "Player": "ShahZaM",
+      "Maps": 966,
+      "K/D": 1.13,
+      "Rating": 1.08
+    },
+    {
+      "Player": "Shakezullah",
+      "Maps": 364,
+      "K/D": 0.99,
+      "Rating": 0.96
+    },
+    {
+      "Player": "Shara",
+      "Maps": 380,
+      "K/D": 0.9,
+      "Rating": 0.91
+    },
+    {
+      "Player": "shinobi",
+      "Maps": 352,
+      "K/D": 0.79,
+      "Rating": 0.83
+    },
+    {
+      "Player": "SHiPZ",
+      "Maps": 1000,
+      "K/D": 1.07,
+      "Rating": 1.06
+    },
+    {
+      "Player": "SHOOWTiME",
+      "Maps": 836,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "shox",
+      "Maps": 1684,
+      "K/D": 1.13,
+      "Rating": 1.09
+    },
+    {
+      "Player": "shroud",
+      "Maps": 676,
+      "K/D": 1.12,
+      "Rating": 1.07
+    },
+    {
+      "Player": "shuadapai",
+      "Maps": 549,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "shz",
+      "Maps": 626,
+      "K/D": 1.12,
+      "Rating": 1.08
+    },
+    {
+      "Player": "SicK",
+      "Maps": 795,
+      "K/D": 1.07,
+      "Rating": 1.05
+    },
+    {
+      "Player": "Sico",
+      "Maps": 708,
+      "K/D": 1.32,
+      "Rating": 1.17
+    },
+    {
+      "Player": "SileNt",
+      "Maps": 624,
+      "K/D": 0.93,
+      "Rating": 0.94
+    },
+    {
+      "Player": "SIXER",
+      "Maps": 638,
+      "K/D": 1.01,
+      "Rating": 0.97
+    },
+    {
+      "Player": "sjuush",
+      "Maps": 542,
+      "K/D": 1.08,
+      "Rating": 1.04
+    },
+    {
+      "Player": "sK",
+      "Maps": 348,
+      "K/D": 0.9,
+      "Rating": 0.93
+    },
+    {
+      "Player": "Skadoodle",
+      "Maps": 1047,
+      "K/D": 1.15,
+      "Rating": 1.06
+    },
+    {
+      "Player": "SkulL",
+      "Maps": 458,
+      "K/D": 0.9,
+      "Rating": 0.93
+    },
+    {
+      "Player": "SKYTTEN",
+      "Maps": 382,
+      "K/D": 1.05,
+      "Rating": 1.02
+    },
+    {
+      "Player": "Slemmy",
+      "Maps": 445,
+      "K/D": 0.83,
+      "Rating": 0.85
+    },
+    {
+      "Player": "sLowi",
+      "Maps": 779,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "smF",
+      "Maps": 623,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "smike",
+      "Maps": 466,
+      "K/D": 1.08,
+      "Rating": 1.07
+    },
+    {
+      "Player": "SmithZz",
+      "Maps": 1161,
+      "K/D": 0.97,
+      "Rating": 0.96
+    },
+    {
+      "Player": "smooya",
+      "Maps": 548,
+      "K/D": 1.22,
+      "Rating": 1.16
+    },
+    {
+      "Player": "Snakes",
+      "Maps": 403,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Snappi",
+      "Maps": 1206,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "snatchie",
+      "Maps": 965,
+      "K/D": 1.05,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Snax",
+      "Maps": 1686,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Sobol",
+      "Maps": 365,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "soju_j",
+      "Maps": 387,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "SOKER",
+      "Maps": 607,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "SolEk",
+      "Maps": 372,
+      "K/D": 0.82,
+      "Rating": 0.84
+    },
+    {
+      "Player": "solo",
+      "Maps": 369,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "somebody",
+      "Maps": 1055,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Sonic",
+      "Maps": 641,
+      "K/D": 1.18,
+      "Rating": 1.12
+    },
+    {
+      "Player": "spaze",
+      "Maps": 534,
+      "K/D": 1.01,
+      "Rating": 1.02
+    },
+    {
+      "Player": "speed4k",
+      "Maps": 551,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "SPELLAN",
+      "Maps": 1189,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Spiidi",
+      "Maps": 1466,
+      "K/D": 1.02,
+      "Rating": 0.99
+    },
+    {
+      "Player": "spiker",
+      "Maps": 409,
+      "K/D": 0.87,
+      "Rating": 0.89
+    },
+    {
+      "Player": "splashske",
+      "Maps": 647,
+      "K/D": 1.17,
+      "Rating": 1.13
+    },
+    {
+      "Player": "Spongey",
+      "Maps": 427,
+      "K/D": 1.09,
+      "Rating": 1.03
+    },
+    {
+      "Player": "spyleadeR",
+      "Maps": 887,
+      "K/D": 1.01,
+      "Rating": 1.02
+    },
+    {
+      "Player": "stanislaw",
+      "Maps": 1118,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "starix",
+      "Maps": 625,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "stavn",
+      "Maps": 744,
+      "K/D": 1.06,
+      "Rating": 1.05
+    },
+    {
+      "Player": "stavros",
+      "Maps": 351,
+      "K/D": 0.92,
+      "Rating": 0.94
+    },
+    {
+      "Player": "steelega",
+      "Maps": 1121,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "steel",
+      "Maps": 556,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "stellar",
+      "Maps": 427,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "sterling",
+      "Maps": 505,
+      "K/D": 1.32,
+      "Rating": 1.18
+    },
+    {
+      "Player": "Stewie2K",
+      "Maps": 1220,
+      "K/D": 1.04,
+      "Rating": 1.03
+    },
+    {
+      "Player": "stfN",
+      "Maps": 1071,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "stk",
+      "Maps": 474,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "STOMP",
+      "Maps": 492,
+      "K/D": 1.1,
+      "Rating": 1.05
+    },
+    {
+      "Player": "strux1",
+      "Maps": 403,
+      "K/D": 0.96,
+      "Rating": 0.95
+    },
+    {
+      "Player": "STYKO",
+      "Maps": 1214,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Subroza",
+      "Maps": 623,
+      "K/D": 1.03,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Summer",
+      "Maps": 1021,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "suNny",
+      "Maps": 1137,
+      "K/D": 1.08,
+      "Rating": 1.07
+    },
+    {
+      "Player": "supra",
+      "Maps": 318,
+      "K/D": 0.99,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Surreal",
+      "Maps": 976,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "svyat",
+      "Maps": 496,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "swag",
+      "Maps": 556,
+      "K/D": 1.18,
+      "Rating": 1.1
+    },
+    {
+      "Player": "sXe",
+      "Maps": 423,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "sycrone",
+      "Maps": 488,
+      "K/D": 0.89,
+      "Rating": 0.89
+    },
+    {
+      "Player": "syken",
+      "Maps": 408,
+      "K/D": 0.97,
+      "Rating": 0.98
+    },
+    {
+      "Player": "syrsoN",
+      "Maps": 1245,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "Sys",
+      "Maps": 324,
+      "K/D": 1.08,
+      "Rating": 1.05
+    },
+    {
+      "Player": "SZPERO",
+      "Maps": 1528,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "t0rick",
+      "Maps": 335,
+      "K/D": 0.93,
+      "Rating": 0.93
+    },
+    {
+      "Player": "tabseN",
+      "Maps": 1463,
+      "K/D": 1.06,
+      "Rating": 1.07
+    },
+    {
+      "Player": "TACO",
+      "Maps": 1137,
+      "K/D": 0.96,
+      "Rating": 0.93
+    },
+    {
+      "Player": "tahsiN",
+      "Maps": 562,
+      "K/D": 0.95,
+      "Rating": 0.96
+    },
+    {
+      "Player": "tarik",
+      "Maps": 1308,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "tatazin",
+      "Maps": 643,
+      "K/D": 1.1,
+      "Rating": 1.02
+    },
+    {
+      "Player": "TaZ",
+      "Maps": 1860,
+      "K/D": 0.99,
+      "Rating": 0.97
+    },
+    {
+      "Player": "tb",
+      "Maps": 615,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "tecek",
+      "Maps": 376,
+      "K/D": 0.88,
+      "Rating": 0.91
+    },
+    {
+      "Player": "TenZ",
+      "Maps": 401,
+      "K/D": 1.12,
+      "Rating": 1.1
+    },
+    {
+      "Player": "TENZKI",
+      "Maps": 1202,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "TeSeS",
+      "Maps": 451,
+      "K/D": 1.09,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Texta",
+      "Maps": 625,
+      "K/D": 1.16,
+      "Rating": 1.13
+    },
+    {
+      "Player": "Thomas",
+      "Maps": 578,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "tiburci0",
+      "Maps": 362,
+      "K/D": 1.07,
+      "Rating": 1.01
+    },
+    {
+      "Player": "tifa",
+      "Maps": 370,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "tiziaN",
+      "Maps": 1280,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "to1nou",
+      "Maps": 850,
+      "K/D": 1.04,
+      "Rating": 1.01
+    },
+    {
+      "Player": "TOAO",
+      "Maps": 681,
+      "K/D": 0.98,
+      "Rating": 0.97
+    },
+    {
+      "Player": "ToM223",
+      "Maps": 362,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Tommy",
+      "Maps": 370,
+      "K/D": 0.96,
+      "Rating": 0.97
+    },
+    {
+      "Player": "tonyblack",
+      "Maps": 817,
+      "K/D": 0.95,
+      "Rating": 0.94
+    },
+    {
+      "Player": "TOR",
+      "Maps": 452,
+      "K/D": 1.09,
+      "Rating": 1.06
+    },
+    {
+      "Player": "torben",
+      "Maps": 532,
+      "K/D": 0.87,
+      "Rating": 0.88
+    },
+    {
+      "Player": "Toy",
+      "Maps": 322,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "trk",
+      "Maps": 611,
+      "K/D": 1.16,
+      "Rating": 1.11
+    },
+    {
+      "Player": "truth",
+      "Maps": 331,
+      "K/D": 1.02,
+      "Rating": 1.01
+    },
+    {
+      "Player": "Tsogoo",
+      "Maps": 419,
+      "K/D": 1.03,
+      "Rating": 1.02
+    },
+    {
+      "Player": "tucks",
+      "Maps": 686,
+      "K/D": 1.12,
+      "Rating": 1.06
+    },
+    {
+      "Player": "TuGuX",
+      "Maps": 349,
+      "K/D": 0.95,
+      "Rating": 0.93
+    },
+    {
+      "Player": "tutehen",
+      "Maps": 396,
+      "K/D": 0.97,
+      "Rating": 0.95
+    },
+    {
+      "Player": "Tuurtle",
+      "Maps": 382,
+      "K/D": 0.97,
+      "Rating": 0.97
+    },
+    {
+      "Player": "twist",
+      "Maps": 1344,
+      "K/D": 1.09,
+      "Rating": 1.07
+    },
+    {
+      "Player": "Twista",
+      "Maps": 380,
+      "K/D": 0.84,
+      "Rating": 0.85
+    },
+    {
+      "Player": "Twistzz",
+      "Maps": 1031,
+      "K/D": 1.2,
+      "Rating": 1.13
+    },
+    {
+      "Player": "Twixie",
+      "Maps": 406,
+      "K/D": 0.92,
+      "Rating": 0.93
+    },
+    {
+      "Player": "ub1que",
+      "Maps": 491,
+      "K/D": 0.94,
+      "Rating": 0.94
+    },
+    {
+      "Player": "Uber",
+      "Maps": 395,
+      "K/D": 0.96,
+      "Rating": 0.96
+    },
+    {
+      "Player": "uNdo",
+      "Maps": 425,
+      "K/D": 0.95,
+      "Rating": 0.95
+    },
+    {
+      "Player": "USTILO",
+      "Maps": 838,
+      "K/D": 1.02,
+      "Rating": 1.02
+    },
+    {
+      "Player": "v1c7oR",
+      "Maps": 1535,
+      "K/D": 1.05,
+      "Rating": 1.03
+    },
+    {
+      "Player": "valde",
+      "Maps": 933,
+      "K/D": 1.13,
+      "Rating": 1.09
+    },
+    {
+      "Player": "Valiance",
+      "Maps": 337,
+      "K/D": 1.1,
+      "Rating": 1.06
+    },
+    {
+      "Player": "vanity",
+      "Maps": 486,
+      "K/D": 0.99,
+      "Rating": 0.98
+    },
+    {
+      "Player": "Vegi",
+      "Maps": 450,
+      "K/D": 0.96,
+      "Rating": 0.97
+    },
+    {
+      "Player": "vice",
+      "Maps": 493,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "VINI",
+      "Maps": 640,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Viva",
+      "Maps": 421,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "void",
+      "Maps": 437,
+      "K/D": 1.02,
+      "Rating": 1.0
+    },
+    {
+      "Player": "Voltage",
+      "Maps": 420,
+      "K/D": 1.08,
+      "Rating": 1.01
+    },
+    {
+      "Player": "vSa",
+      "Maps": 385,
+      "K/D": 0.95,
+      "Rating": 0.94
+    },
+    {
+      "Player": "vsm",
+      "Maps": 348,
+      "K/D": 1.22,
+      "Rating": 1.17
+    },
+    {
+      "Player": "WARDELL",
+      "Maps": 609,
+      "K/D": 1.17,
+      "Rating": 1.1
+    },
+    {
+      "Player": "waterfaLLZ",
+      "Maps": 738,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "wayLander",
+      "Maps": 794,
+      "K/D": 0.89,
+      "Rating": 0.91
+    },
+    {
+      "Player": "witmer",
+      "Maps": 345,
+      "K/D": 0.91,
+      "Rating": 0.92
+    },
+    {
+      "Player": "WorldEdit",
+      "Maps": 1328,
+      "K/D": 1.11,
+      "Rating": 1.07
+    },
+    {
+      "Player": "woxic",
+      "Maps": 873,
+      "K/D": 1.22,
+      "Rating": 1.14
+    },
+    {
+      "Player": "wrath",
+      "Maps": 435,
+      "K/D": 1.13,
+      "Rating": 1.12
+    },
+    {
+      "Player": "xand",
+      "Maps": 512,
+      "K/D": 1.1,
+      "Rating": 1.07
+    },
+    {
+      "Player": "XANTARES",
+      "Maps": 1198,
+      "K/D": 1.21,
+      "Rating": 1.19
+    },
+    {
+      "Player": "xartE",
+      "Maps": 1013,
+      "K/D": 0.93,
+      "Rating": 0.92
+    },
+    {
+      "Player": "xccurate",
+      "Maps": 601,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "XELLOW",
+      "Maps": 598,
+      "K/D": 1.2,
+      "Rating": 1.16
+    },
+    {
+      "Player": "xelos",
+      "Maps": 383,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "xeta",
+      "Maps": 351,
+      "K/D": 1.16,
+      "Rating": 1.1
+    },
+    {
+      "Player": "xiaosaGe",
+      "Maps": 714,
+      "K/D": 1.01,
+      "Rating": 1.01
+    },
+    {
+      "Player": "XigN",
+      "Maps": 578,
+      "K/D": 1.22,
+      "Rating": 1.16
+    },
+    {
+      "Player": "Xizt",
+      "Maps": 1615,
+      "K/D": 1.03,
+      "Rating": 0.99
+    },
+    {
+      "Player": "xms",
+      "Maps": 622,
+      "K/D": 0.96,
+      "Rating": 0.97
+    },
+    {
+      "Player": "Xp3",
+      "Maps": 502,
+      "K/D": 0.91,
+      "Rating": 0.92
+    },
+    {
+      "Player": "xsepower",
+      "Maps": 740,
+      "K/D": 1.25,
+      "Rating": 1.12
+    },
+    {
+      "Player": "xseveN",
+      "Maps": 941,
+      "K/D": 1.0,
+      "Rating": 0.99
+    },
+    {
+      "Player": "Xyp9x",
+      "Maps": 1675,
+      "K/D": 1.1,
+      "Rating": 1.04
+    },
+    {
+      "Player": "yam",
+      "Maps": 513,
+      "K/D": 1.08,
+      "Rating": 1.04
+    },
+    {
+      "Player": "yay",
+      "Maps": 653,
+      "K/D": 1.05,
+      "Rating": 1.05
+    },
+    {
+      "Player": "YDNA",
+      "Maps": 435,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "YEKINDAR",
+      "Maps": 736,
+      "K/D": 1.08,
+      "Rating": 1.08
+    },
+    {
+      "Player": "yel",
+      "Maps": 767,
+      "K/D": 1.06,
+      "Rating": 1.02
+    },
+    {
+      "Player": "YJ",
+      "Maps": 463,
+      "K/D": 1.01,
+      "Rating": 0.96
+    },
+    {
+      "Player": "yuurih",
+      "Maps": 661,
+      "K/D": 1.21,
+      "Rating": 1.14
+    },
+    {
+      "Player": "ZEDKO",
+      "Maps": 551,
+      "K/D": 1.01,
+      "Rating": 0.99
+    },
+    {
+      "Player": "zeff",
+      "Maps": 482,
+      "K/D": 1.01,
+      "Rating": 1.0
+    },
+    {
+      "Player": "zehN",
+      "Maps": 857,
+      "K/D": 1.14,
+      "Rating": 1.1
+    },
+    {
+      "Player": "Zellsis",
+      "Maps": 568,
+      "K/D": 1.07,
+      "Rating": 1.04
+    },
+    {
+      "Player": "zende",
+      "Maps": 397,
+      "K/D": 1.0,
+      "Rating": 0.98
+    },
+    {
+      "Player": "zeph",
+      "Maps": 372,
+      "K/D": 1.04,
+      "Rating": 1.04
+    },
+    {
+      "Player": "Zero",
+      "Maps": 606,
+      "K/D": 1.1,
+      "Rating": 1.03
+    },
+    {
+      "Player": "Zeus",
+      "Maps": 1400,
+      "K/D": 0.92,
+      "Rating": 0.92
+    },
+    {
+      "Player": "zewsy",
+      "Maps": 618,
+      "K/D": 1.06,
+      "Rating": 1.04
+    },
+    {
+      "Player": "zhokiNg",
+      "Maps": 1031,
+      "K/D": 1.09,
+      "Rating": 1.08
+    },
+    {
+      "Player": "Zix",
+      "Maps": 375,
+      "K/D": 0.98,
+      "Rating": 0.99
+    },
+    {
+      "Player": "znajder",
+      "Maps": 1026,
+      "K/D": 1.06,
+      "Rating": 1.03
+    },
+    {
+      "Player": "ZOREE",
+      "Maps": 1333,
+      "K/D": 1.15,
+      "Rating": 1.09
+    },
+    {
+      "Player": "zqkS",
+      "Maps": 624,
+      "K/D": 1.06,
+      "Rating": 1.01
+    },
+    {
+      "Player": "ZywOo",
+      "Maps": 652,
+      "K/D": 1.39,
+      "Rating": 1.29
+    }
+  ]
+}
