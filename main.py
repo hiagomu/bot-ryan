@@ -35,26 +35,36 @@ def my_dict():
     return new_dict
 
 
-def reply_to_tweets():
-    last_seen = retrieve_last_seen_id(FILE_NAME)
-    mentions = api.mentions_timeline(
-                        last_seen,
-                        tweet_mode='extended')
-
-    for mention in reversed(mentions):
-        print(f'{str(mention.id)} - {mention.full_text} - {mention.author.screen_name}')
-        last_seen = mention.id
-        store_last_seen_id(last_seen, FILE_NAME)
-        new_dict = my_dict()
-
-        for stats in new_dict:
-            if stats['Player'].lower() in mention.full_text.lower().split():
+def search_n_update(new_dict, mention):
+    for stats in new_dict:
+        if stats['Player'].lower() in mention.full_text.lower().split():
+            try:
                 print(f'Maps Played: {stats["Maps"]}\nRating: {stats["Rating"]}')
                 print('Respondendo...')
                 api.update_status(
                     f'@{mention.user.screen_name} Player: {stats["Player"]}\nMaps: {stats["Maps"]}\nK/D: {stats["K/D"]}\nRating: {stats["Rating"]}',
                     mention.id)
+            except tweepy.TweepError as e:
+                print(e.reason)
+            except StopIteration:
+                break
 
+
+def search_mentions(mentions):
+    for mention in reversed(mentions):
+        print(f'{str(mention.id)} - {mention.full_text} - {mention.author.screen_name}')
+        last_seen = mention.id
+        store_last_seen_id(last_seen, FILE_NAME)
+        new_dict = my_dict()
+        search_n_update(new_dict, mention)
+
+
+def reply_to_tweets():
+    last_seen = retrieve_last_seen_id(FILE_NAME)
+    mentions = api.mentions_timeline(
+                        last_seen,
+                        tweet_mode='extended')
+    search_mentions(mentions)
 
 while True:
     reply_to_tweets()

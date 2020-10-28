@@ -1,1 +1,1 @@
-worker: python botryan.py
+worker: python main.py
